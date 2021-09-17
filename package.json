@@ -1,6 +1,6 @@
 {
   "name": "vue3-lock-screen",
-  "version": "0.0.10",
+  "version": "0.0.20",
   "description": "hls.js player component for Vue3",
   "files": [
     "dist",

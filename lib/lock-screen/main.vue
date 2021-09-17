@@ -2,7 +2,7 @@
  * @Author: web.王晓冬
  * @Date: 2020-11-03 16:29:47
  * @LastEditors: web.王晓冬
- * @LastEditTime: 2021-09-16 18:00:57
+ * @LastEditTime: 2021-09-17 15:37:21
  * @Description: file content
 */
 
@@ -22,7 +22,7 @@
             <span>{{ state.date }}</span>
             <span>星期{{ ['日', '一', '二', '三', '四', '五', '六',][state.week] }}</span>
           </div>
-          <div class="d-lock-screen-weather">{{ state.weather }}</div>
+          <!-- <div class="d-lock-screen-weather">{{ state.weather }}</div> -->
         </div>
 
         <div class="d-lock-screen-input">
